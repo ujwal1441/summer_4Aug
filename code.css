@@ -17,4 +17,9 @@ header {
   border-bottom: 3px solid #007acc;
   padding-bottom: 10px;
 }
+h1 {
+  margin: 0;
+  color: #007acc;
+  font-size: 2.5em;
+}
 
