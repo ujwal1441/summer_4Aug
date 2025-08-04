@@ -12,3 +12,9 @@ body {
   background-color: #fff;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
+header {
+  text-align: center;
+  border-bottom: 3px solid #007acc;
+  padding-bottom: 10px;
+}
+
